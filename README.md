@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Aniskhan0318
+- 👋 Hi, I’m Anis Khan
 - 👀 I’m interested in ... Full Stack Web Development.
-- 🌱 I’m currently learning ... HTML, and CSS.
-- 💞️ I’m looking to collaborate on ... for good guidelines from the seniors.
-- 📫 How to reach me ... whatsapp +923189091210
-
-<!---
-Aniskhan0318/Aniskhan0318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning ... React JS.
+- 💞️ I’m looking to collaborate on ... Full Stack Web Application Projects.
+- 📫 How to reach me ... +923189091210
